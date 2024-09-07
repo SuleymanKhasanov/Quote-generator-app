@@ -1,0 +1,35 @@
+.quoteList {
+  margin: 0% 10%;
+}
+
+.list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.listItem {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+blockquote {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+span {
+  text-align: right;
+  color: #aeaeae;
+}
+
+p {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  text-align: center;
+  color: #aeaeae;
+}
